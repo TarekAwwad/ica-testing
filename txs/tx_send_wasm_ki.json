@@ -1,0 +1,11 @@
+{
+    "@type":"/cosmos.bank.v1beta1.MsgSend",
+    "from_address":"<INPUT ICA ADDRESS>",
+    "to_address":"<INPUT RECIPIENT ADDRESS>",
+    "amount": [
+        {
+            "denom": "utki",
+            "amount": "1000"
+        }
+    ]
+}
